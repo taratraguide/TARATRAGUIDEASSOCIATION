@@ -8,7 +8,7 @@ window.scrollTo(0,parseInt(scrolly || '0')* -1);
 const btn12 = document.querySelector(".btn-12")
 btn12.addEventListener("click",()=>{
    
-        window.location.href = "JAZY/JAZY.html"
+        window.location.href = "JAZY/index.html"
    
 })
 
